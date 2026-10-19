@@ -1,0 +1,6 @@
+{
+  "name": "FYP Task Tracker",
+  "description": "Daily task tracker for university Final Year Project (FYP) teams with member checklist completion and local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
